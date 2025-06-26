@@ -111,3 +111,21 @@ Bharath Kumar A
 
 
 This project helped me apply theoretical SQL knowledge to build a fully functional, normalized, and query-ready database system. I look forward to exploring more with Joins, Views, and Stored Procedures in future tasks.
+
+
+
+# Task 3 – Basic SELECT Queries
+
+This task includes SQL queries using 'SELECT', 'WHERE', 'ORDER BY', 'LIKE', 'BETWEEN', 'IN', 'DISTINCT', 'LIMIT', and aliasing.  
+Practiced data retrieval on an E-Commerce database covering Customers, Products, Orders, and Payments tables.
+
+ Key Skills Practiced:
+- Filtering rows using conditions
+- Using LIKE patterns and BETWEEN range
+- Sorting with ORDER BY
+- Limiting rows using LIMIT
+- Using DISTINCT and aliases
+
+ Tools: MySQL Workbench
+
+
